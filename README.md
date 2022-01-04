@@ -1,5 +1,4 @@
-# Domain-Codomain
-## Algebraic functions
+# Algebraic functions
 
 ## Linear function
 
